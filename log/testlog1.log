@@ -1,27 +1,45 @@
-2021-01-18 16:16:57,520 [main] INFO Shopclues - Application is launched
-2021-01-18 16:16:59,177 [main] INFO Shopclues - Entered username
-2021-01-18 16:16:59,246 [main] INFO Shopclues - Entered password
-2021-01-18 16:17:00,342 [main] INFO Shopclues - Clicked Login
-2021-01-18 16:17:01,070 [main] INFO Shopclues - Login successful
-2021-01-18 16:17:28,873 [main] INFO Shopclues - Application is launched
-2021-01-18 16:17:30,473 [main] INFO Shopclues - Entered username
-2021-01-18 16:17:30,548 [main] INFO Shopclues - Entered password
-2021-01-18 16:17:31,642 [main] INFO Shopclues - Clicked Login
-2021-01-18 16:17:32,135 [main] INFO Shopclues - Login successful
-2021-01-18 16:18:37,285 [main] INFO Shopclues - Application is launched
-2021-01-18 16:18:38,866 [main] INFO Shopclues - Entered username
-2021-01-18 16:18:38,945 [main] INFO Shopclues - Entered password
-2021-01-18 16:18:40,030 [main] INFO Shopclues - Clicked Login
-2021-01-18 16:18:41,062 [main] INFO Shopclues - Login successful
-2021-01-18 16:18:43,002 [main] INFO Shopclues - Logout successful
-2021-01-18 20:26:25,767 [main] INFO Shopclues - Application is launched
-2021-01-18 20:26:36,099 [main] INFO Shopclues - Entered username
-2021-01-18 20:26:36,175 [main] INFO Shopclues - Entered password
-2021-01-18 20:26:39,333 [main] INFO Shopclues - Clicked Login
-2021-01-18 20:26:39,847 [main] INFO Shopclues - Login successful
-2021-01-18 20:26:41,739 [main] INFO Shopclues - Logout successful
-2021-01-18 20:43:03,008 [main] INFO Shopclues - Application is launched
-2021-01-18 20:43:04,778 [main] INFO Shopclues - Entered username
-2021-01-18 20:43:04,859 [main] INFO Shopclues - Entered password
-2021-01-18 20:43:05,939 [main] INFO Shopclues - Clicked Login
-2021-01-18 20:43:06,443 [main] INFO Shopclues - Logout successful
+2021-01-18 22:46:48,772 [main] INFO Shopclues - Entered username
+2021-01-18 22:46:48,853 [main] INFO Shopclues - Entered password
+2021-01-18 22:46:49,950 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:46:50,570 [main] INFO Shopclues - Login successful
+2021-01-18 22:46:52,795 [main] INFO Shopclues - Logout successful
+2021-01-18 22:46:57,357 [main] INFO Shopclues - Entered username
+2021-01-18 22:46:57,421 [main] INFO Shopclues - Entered password
+2021-01-18 22:46:58,525 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:46:58,885 [main] INFO Shopclues - Entered username
+2021-01-18 22:46:58,948 [main] INFO Shopclues - Entered password
+2021-01-18 22:47:00,043 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:47:00,266 [main] INFO Shopclues - Entered username
+2021-01-18 22:47:00,365 [main] INFO Shopclues - Entered password
+2021-01-18 22:47:01,438 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:48:56,901 [main] INFO Shopclues - Entered username
+2021-01-18 22:48:56,989 [main] INFO Shopclues - Entered password
+2021-01-18 22:48:58,071 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:48:58,821 [main] INFO Shopclues - Login successful
+2021-01-18 22:49:00,956 [main] INFO Shopclues - Logout successful
+2021-01-18 22:49:02,738 [main] INFO Shopclues - Entered username
+2021-01-18 22:49:02,854 [main] INFO Shopclues - Entered password
+2021-01-18 22:49:03,951 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:49:04,498 [main] INFO Shopclues - Entered username
+2021-01-18 22:49:04,567 [main] INFO Shopclues - Entered password
+2021-01-18 22:49:05,630 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:49:06,155 [main] INFO Shopclues - Entered username
+2021-01-18 22:49:06,230 [main] INFO Shopclues - Entered password
+2021-01-18 22:49:07,301 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:50:42,309 [main] INFO Shopclues - Entered username
+2021-01-18 22:50:42,395 [main] INFO Shopclues - Entered password
+2021-01-18 22:50:43,490 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:50:44,814 [main] INFO Shopclues - Login successful
+2021-01-18 22:50:46,951 [main] INFO Shopclues - Logout successful
+2021-01-18 22:50:52,388 [main] INFO Shopclues - Entered username
+2021-01-18 22:50:52,475 [main] INFO Shopclues - Entered password
+2021-01-18 22:50:53,568 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:50:53,604 [main] INFO Shopclues - login test failed
+2021-01-18 22:50:54,118 [main] INFO Shopclues - Entered username
+2021-01-18 22:50:54,184 [main] INFO Shopclues - Entered password
+2021-01-18 22:50:55,256 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:50:55,286 [main] INFO Shopclues - login test failed
+2021-01-18 22:50:55,774 [main] INFO Shopclues - Entered username
+2021-01-18 22:50:55,852 [main] INFO Shopclues - Entered password
+2021-01-18 22:50:56,936 [main] INFO Shopclues - Clicked Login
+2021-01-18 22:50:56,967 [main] INFO Shopclues - login test failed

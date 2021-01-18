@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.shopclues.test.LoginTest">
+      <class name="com.shopclues.test.LoginDataDrivenTest">
         <methods>
           <include name="tearDown"/>
-          <include name="loginTest"/>
+          <include name="loginTest" invocation-numbers="1 2 3"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.shopclues.test.LoginTest -->
+      </class> <!-- com.shopclues.test.LoginDataDrivenTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

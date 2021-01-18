@@ -6,7 +6,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-
 public class HomePage{
 	
 WebDriver ldriver;
@@ -50,6 +49,12 @@ WebDriver ldriver;
 	@FindBy(xpath="/html/body/div[4]/div/div/div[4]/ul/li[5]/div/ul/li[10]/a")
 	WebElement btnLogOut;
 	
+	@FindBy(xpath="//*[@id=\"login\"]/form/fieldset/div[2]/div[1]/span")
+	WebElement loginError;
+	
+	@FindBy(xpath="//*[@id=\"login\"]/form/fieldset/div[3]/div[1]/span")
+	WebElement msgError;
+	
 	@FindBy(id="a_close_id")
 	WebElement btnLoginClose;
 	
@@ -59,8 +64,7 @@ WebDriver ldriver;
 	{
 	   btnDontAllow.click();
 	}
-	
-	 
+		 
 	public void clickSignin()
 	{  
 	   action=new Actions(this.ldriver);//instantiating object of actions class
@@ -73,10 +77,8 @@ WebDriver ldriver;
 	   action=new Actions(this.ldriver);
 	   action.moveToElement(loginText).click().build().perform();
 	   action.moveToElement(btnLogOut).click().build().perform();
-				
 	}
 	
-		
 	public void switchToPopUp()
 	{
 	  action=new Actions(this.ldriver);
@@ -99,12 +101,19 @@ WebDriver ldriver;
 	   btnLogin.click();
 	}
 	
+	public String getError() {
+		return loginError.getText();
+	}
+	
+	public String msgError() {
+		return msgError.getText();
+	}
+	
 	public String isLoggedIn() {
 		String name=loginText.getText();
 		return name;
 	}
-	
-
+			
 	public String isLoggedOut() {
 		String signin=signInText.getText();
 		return signin;
@@ -120,6 +129,4 @@ WebDriver ldriver;
 		btnLoginClose.click();
 	}
 	
-	
-
 }

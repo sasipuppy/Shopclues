@@ -35,25 +35,21 @@ public class LoginTest extends BaseClass{
 	   if((hp.isLoggedIn().equals("Hi sasikala"))) {
 		 Assert.assertTrue(true); 
 		 logger.info("Login successful");
+		 hp.logOut();
+		 driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		 Assert.assertEquals(hp.isLoggedOut(),"Sign In");
+		 logger.info("Logout successful");
 	  }
 	   else
 	   {
+		   logger.info("login test failed");
 		   captureScreen(driver,"loginTest");
 		   Assert.assertTrue(false);
-		   logger.info("login test failed");
+		  
 	   }
 	   
 	}
 	
-	@Test(priority=3)
-	public void logOutTest() throws InterruptedException 
-	{ 
-	 HomePage hp= new HomePage(driver);	
-	 hp.logOut();
-	 driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-	 Assert.assertEquals(hp.isLoggedOut(),"Sign In");
-	 logger.info("Logout successful");
-	}
-	
+		
 	
 }
