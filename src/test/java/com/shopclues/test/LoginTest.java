@@ -1,5 +1,6 @@
 package com.shopclues.test;
 
+import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -18,7 +19,7 @@ public class LoginTest extends BaseClass{
 	}
 	
 	@Test(priority=2)
-	public void loginTest() throws InterruptedException 
+	public void loginTest() throws InterruptedException, IOException 
 	{  
 	   HomePage hp= new HomePage(driver);
 	   hp.clickSignin();
@@ -31,8 +32,17 @@ public class LoginTest extends BaseClass{
 	   hp.clickLogin();
 	   Thread.sleep(1000);
 	   logger.info("Clicked Login");
-	   Assert.assertEquals(hp.isLoggedIn(),"Hi sasikala");
-	   logger.info("Login successful");
+	   if((hp.isLoggedIn().equals("Hi sasikala"))) {
+		 Assert.assertTrue(true); 
+		 logger.info("Login successful");
+	  }
+	   else
+	   {
+		   captureScreen(driver,"loginTest");
+		   Assert.assertTrue(false);
+		   logger.info("login test failed");
+	   }
+	   
 	}
 	
 	@Test(priority=3)
