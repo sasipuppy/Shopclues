@@ -1,0 +1,49 @@
+package com.shopclues.test;
+
+import java.util.concurrent.TimeUnit;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import com.shopclues.page.HomePage;
+
+public class LoginTest extends BaseClass{
+	
+	HomePage hp= new HomePage(driver);
+	
+	@Test(priority=1)
+	public void urlTest() 
+	{ 
+	  String title= driver.getTitle();
+	  Assert.assertTrue(title.contains("Online Shopping Site India"));
+	  logger.info("Application is launched");
+	}
+	
+	@Test(priority=2)
+	public void loginTest() throws InterruptedException 
+	{  
+	   HomePage hp= new HomePage(driver);
+	   hp.clickSignin();
+	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	   hp.switchToPopUp();
+	   hp.enterUserId(userId);
+	   logger.info("Entered username");
+	   hp.enterPassword(password);
+	   logger.info("Entered password");
+	   hp.clickLogin();
+	   Thread.sleep(1000);
+	   logger.info("Clicked Login");
+	   Assert.assertEquals(hp.isLoggedIn(),"Hi sasikala");
+	   logger.info("Login successful");
+	}
+	
+	@Test(priority=3)
+	public void logOutTest() throws InterruptedException 
+	{ 
+	 HomePage hp= new HomePage(driver);	
+	 hp.logOut();
+	 driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	 Assert.assertEquals(hp.isLoggedOut(),"Sign In");
+	 logger.info("Logout successful");
+	}
+	
+	
+}

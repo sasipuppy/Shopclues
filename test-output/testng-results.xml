@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14524" started-at="2021-01-18T15:18:28Z" finished-at="2021-01-18T15:18:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14524" started-at="2021-01-18T15:18:28Z" finished-at="2021-01-18T15:18:43Z">
+      <class name="com.shopclues.test.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.shopclues.test.LoginTest@4445629]" name="setup" is-config="true" duration-ms="8736" started-at="2021-01-18T15:18:28Z" finished-at="2021-01-18T15:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="urlTest()[pri:1, instance:com.shopclues.test.LoginTest@4445629]" name="urlTest" duration-ms="62" started-at="2021-01-18T15:18:37Z" finished-at="2021-01-18T15:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.shopclues.test.LoginTest@4445629]" name="loginTest" duration-ms="3770" started-at="2021-01-18T15:18:37Z" finished-at="2021-01-18T15:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="logOutTest()[pri:3, instance:com.shopclues.test.LoginTest@4445629]" name="logOutTest" duration-ms="1939" started-at="2021-01-18T15:18:41Z" finished-at="2021-01-18T15:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+      </class> <!-- com.shopclues.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
