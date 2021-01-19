@@ -18,9 +18,11 @@ public class LoginDataDrivenTest extends BaseClass{
 	   hp.clickSignin();
 	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	   hp.switchToPopUp();
+	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	   hp.clearUserId();
 	   hp.enterUserId(userId);
 	   logger.info("Entered username");
+	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	   hp.clearPassword();
 	   hp.enterPassword(password);
 	   logger.info("Entered password");

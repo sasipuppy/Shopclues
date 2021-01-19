@@ -4,16 +4,28 @@
   <listeners>
     <listener class-name="com.shopclues.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="node" value="local"/>
     <classes>
       <class name="com.shopclues.test.LoginDataDrivenTest">
         <methods>
           <include name="tearDown"/>
-          <include name="loginTest" invocation-numbers="1 2 3 4"/>
+          <include name="loginTest" invocation-numbers="0 1 2 3"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.shopclues.test.LoginDataDrivenTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- ChromeTest(failed) -->
+  <test thread-count="5" name="FirefoxTest(failed)">
+    <parameter name="node" value="external"/>
+    <classes>
+      <class name="com.shopclues.test.LoginDataDrivenTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loginTest" invocation-numbers="0 1 2 3 4"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.shopclues.test.LoginDataDrivenTest -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

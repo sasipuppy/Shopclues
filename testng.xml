@@ -5,12 +5,21 @@
     <listeners>
 		<listener class-name="com.shopclues.utilities.Reporting" />
 	</listeners>
-
-  <test name="Test">
-  <parameter name="browser" value="chrome" />
+	
+  <test name="ChromeTest">
+  <parameter name="node" value="local"> </parameter>
     <classes>
       <class name="com.shopclues.test.BaseClass"/>
       <class name="com.shopclues.test.LoginDataDrivenTest"/>
     </classes>
   </test> <!-- Test -->
+
+  <test name="FirefoxTest">
+  <parameter name="node" value="external"> </parameter>
+    <classes>
+      <class name="com.shopclues.test.BaseClass"/>
+      <class name="com.shopclues.test.LoginDataDrivenTest"/>
+    </classes>
+  </test> <!-- Test -->
+      
 </suite> <!-- Suite -->
