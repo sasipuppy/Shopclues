@@ -10,7 +10,7 @@
       <class name="com.shopclues.test.LoginDataDrivenTest">
         <methods>
           <include name="tearDown"/>
-          <include name="loginTest" invocation-numbers="1 2 3"/>
+          <include name="loginTest" invocation-numbers="1 2 3 4"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.shopclues.test.LoginDataDrivenTest -->

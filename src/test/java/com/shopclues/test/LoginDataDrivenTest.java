@@ -18,10 +18,13 @@ public class LoginDataDrivenTest extends BaseClass{
 	   hp.clickSignin();
 	   driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	   hp.switchToPopUp();
+	   hp.clearUserId();
 	   hp.enterUserId(userId);
 	   logger.info("Entered username");
+	   hp.clearPassword();
 	   hp.enterPassword(password);
 	   logger.info("Entered password");
+	   Thread.sleep(1000);
 	   hp.clickLogin();
 	   Thread.sleep(1000);
 	   logger.info("Clicked Login");
@@ -34,7 +37,13 @@ public class LoginDataDrivenTest extends BaseClass{
 		 logger.info("Logout successful");
 	  }
 	   else 
-	   {
+	   {  
+		   if(hp.isDisplayedLoginError())
+			   logger.info(hp.getLoginError());
+		   else if(hp.isDisplayedPasswordError())
+			   logger.info(hp.getPasswordError());
+		   else if(hp.isDisplayedUserIdError())
+			   logger.info(hp.getUserIdError());
 		   logger.info("login test failed");
 		   captureScreen(driver,"loginDataDrivenTest");
 		   Assert.assertTrue(false);
@@ -57,7 +66,7 @@ public class LoginDataDrivenTest extends BaseClass{
 		{
 			for(int j=0;j<colcount;j++)
 			{
-				logindata[i-1][j]=XLUtils.getCellData(path,"Sheet1", i,j);//1 0
+				logindata[i-1][j]=XLUtils.getCellData(path,"Sheet1", i,j);
 			}
 				
 		}

@@ -43,3 +43,351 @@
 2021-01-18 22:50:55,852 - Shopclues -INFO - Entered password
 2021-01-18 22:50:56,936 - Shopclues -INFO - Clicked Login
 2021-01-18 22:50:56,967 - Shopclues -INFO - login test failed
+2021-01-19 12:27:50,757 - Shopclues -INFO - Entered username
+2021-01-19 12:27:50,867 - Shopclues -INFO - Entered password
+2021-01-19 12:27:51,958 - Shopclues -INFO - Clicked Login
+2021-01-19 12:27:52,100 - Shopclues -INFO - login test failed
+2021-01-19 12:27:52,610 - Shopclues -INFO - Entered username
+2021-01-19 12:27:52,659 - Shopclues -INFO - Entered password
+2021-01-19 12:27:53,750 - Shopclues -INFO - Clicked Login
+2021-01-19 12:27:53,822 - Shopclues -INFO - login test failed
+2021-01-19 12:27:54,369 - Shopclues -INFO - Entered username
+2021-01-19 12:27:54,436 - Shopclues -INFO - Entered password
+2021-01-19 12:27:55,516 - Shopclues -INFO - Clicked Login
+2021-01-19 12:27:55,620 - Shopclues -INFO - login test failed
+2021-01-19 12:27:56,122 - Shopclues -INFO - Entered username
+2021-01-19 12:27:56,207 - Shopclues -INFO - Entered password
+2021-01-19 12:27:57,285 - Shopclues -INFO - Clicked Login
+2021-01-19 12:27:57,378 - Shopclues -INFO - login test failed
+2021-01-19 12:32:29,614 - Shopclues -INFO - Entered username
+2021-01-19 12:32:29,693 - Shopclues -INFO - Entered password
+2021-01-19 12:32:30,819 - Shopclues -INFO - Clicked Login
+2021-01-19 12:32:31,685 - Shopclues -INFO - Login successful
+2021-01-19 12:32:33,934 - Shopclues -INFO - Logout successful
+2021-01-19 12:32:36,311 - Shopclues -INFO - Entered username
+2021-01-19 12:32:36,371 - Shopclues -INFO - Entered password
+2021-01-19 12:32:37,457 - Shopclues -INFO - Clicked Login
+2021-01-19 12:32:37,566 - Shopclues -INFO - login test failed
+2021-01-19 12:32:38,140 - Shopclues -INFO - Entered username
+2021-01-19 12:32:38,206 - Shopclues -INFO - Entered password
+2021-01-19 12:32:39,280 - Shopclues -INFO - Clicked Login
+2021-01-19 12:32:39,402 - Shopclues -INFO - login test failed
+2021-01-19 12:32:39,918 - Shopclues -INFO - Entered username
+2021-01-19 12:32:40,005 - Shopclues -INFO - Entered password
+2021-01-19 12:32:41,089 - Shopclues -INFO - Clicked Login
+2021-01-19 12:32:41,238 - Shopclues -INFO - login test failed
+2021-01-19 12:34:03,874 - Shopclues -INFO - Entered username
+2021-01-19 12:34:03,963 - Shopclues -INFO - Entered password
+2021-01-19 12:34:05,067 - Shopclues -INFO - Clicked Login
+2021-01-19 12:34:05,670 - Shopclues -INFO - Login successful
+2021-01-19 12:34:07,822 - Shopclues -INFO - Logout successful
+2021-01-19 12:34:13,431 - Shopclues -INFO - Entered username
+2021-01-19 12:34:13,532 - Shopclues -INFO - Entered password
+2021-01-19 12:34:14,601 - Shopclues -INFO - Clicked Login
+2021-01-19 12:34:14,715 - Shopclues -INFO - login test failed
+2021-01-19 12:34:15,250 - Shopclues -INFO - Entered username
+2021-01-19 12:34:15,319 - Shopclues -INFO - Entered password
+2021-01-19 12:34:16,399 - Shopclues -INFO - Clicked Login
+2021-01-19 12:34:16,525 - Shopclues -INFO - login test failed
+2021-01-19 12:34:17,029 - Shopclues -INFO - Entered username
+2021-01-19 12:34:17,103 - Shopclues -INFO - Entered password
+2021-01-19 12:34:18,188 - Shopclues -INFO - Clicked Login
+2021-01-19 12:34:18,277 - Shopclues -INFO - login test failed
+2021-01-19 12:39:41,221 - Shopclues -INFO - Entered username
+2021-01-19 12:39:41,287 - Shopclues -INFO - Entered password
+2021-01-19 12:39:42,368 - Shopclues -INFO - Clicked Login
+2021-01-19 12:39:42,432 - Shopclues -INFO - 
+2021-01-19 12:39:42,457 - Shopclues -INFO - 
+2021-01-19 12:39:42,480 - Shopclues -INFO - 
+2021-01-19 12:39:42,480 - Shopclues -INFO - login test failed
+2021-01-19 12:39:42,983 - Shopclues -INFO - Entered username
+2021-01-19 12:39:43,038 - Shopclues -INFO - Entered password
+2021-01-19 12:39:44,102 - Shopclues -INFO - Clicked Login
+2021-01-19 12:39:44,145 - Shopclues -INFO - 
+2021-01-19 12:39:44,160 - Shopclues -INFO - 
+2021-01-19 12:39:44,185 - Shopclues -INFO - 
+2021-01-19 12:39:44,185 - Shopclues -INFO - login test failed
+2021-01-19 12:39:44,742 - Shopclues -INFO - Entered username
+2021-01-19 12:39:44,816 - Shopclues -INFO - Entered password
+2021-01-19 12:39:45,895 - Shopclues -INFO - Clicked Login
+2021-01-19 12:39:45,990 - Shopclues -INFO - 
+2021-01-19 12:39:46,025 - Shopclues -INFO - 
+2021-01-19 12:39:46,048 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 12:39:46,048 - Shopclues -INFO - login test failed
+2021-01-19 12:39:46,586 - Shopclues -INFO - Entered username
+2021-01-19 12:39:46,658 - Shopclues -INFO - Entered password
+2021-01-19 12:39:47,734 - Shopclues -INFO - Clicked Login
+2021-01-19 12:39:47,803 - Shopclues -INFO - 
+2021-01-19 12:39:47,841 - Shopclues -INFO - 
+2021-01-19 12:39:47,858 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 12:39:47,858 - Shopclues -INFO - login test failed
+2021-01-19 12:48:13,994 - Shopclues -INFO - Entered username
+2021-01-19 12:48:14,137 - Shopclues -INFO - Entered password
+2021-01-19 12:48:15,223 - Shopclues -INFO - Clicked Login
+2021-01-19 12:48:15,288 - Shopclues -INFO - 
+2021-01-19 12:48:15,312 - Shopclues -INFO - 
+2021-01-19 12:48:15,334 - Shopclues -INFO - 
+2021-01-19 12:48:15,334 - Shopclues -INFO - login test failed
+2021-01-19 12:48:16,050 - Shopclues -INFO - Entered username
+2021-01-19 12:48:16,224 - Shopclues -INFO - Entered password
+2021-01-19 12:48:17,305 - Shopclues -INFO - Clicked Login
+2021-01-19 12:48:17,401 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 12:48:17,439 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 12:48:17,455 - Shopclues -INFO - 
+2021-01-19 12:48:17,455 - Shopclues -INFO - login test failed
+2021-01-19 12:48:18,038 - Shopclues -INFO - Entered username
+2021-01-19 12:48:18,219 - Shopclues -INFO - Entered password
+2021-01-19 12:48:19,287 - Shopclues -INFO - Clicked Login
+2021-01-19 12:48:19,348 - Shopclues -INFO - 
+2021-01-19 12:48:19,377 - Shopclues -INFO - 
+2021-01-19 12:48:19,393 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 12:48:19,393 - Shopclues -INFO - login test failed
+2021-01-19 12:48:19,954 - Shopclues -INFO - Entered username
+2021-01-19 12:48:20,105 - Shopclues -INFO - Entered password
+2021-01-19 12:48:21,193 - Shopclues -INFO - Clicked Login
+2021-01-19 12:48:21,239 - Shopclues -INFO - 
+2021-01-19 12:48:21,252 - Shopclues -INFO - 
+2021-01-19 12:48:21,267 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 12:48:21,267 - Shopclues -INFO - login test failed
+2021-01-19 12:59:15,706 - Shopclues -INFO - Entered username
+2021-01-19 12:59:15,854 - Shopclues -INFO - Entered password
+2021-01-19 12:59:16,938 - Shopclues -INFO - Clicked Login
+2021-01-19 12:59:17,001 - Shopclues -INFO - 
+2021-01-19 12:59:17,028 - Shopclues -INFO - 
+2021-01-19 12:59:17,047 - Shopclues -INFO - 
+2021-01-19 12:59:17,047 - Shopclues -INFO - login test failed
+2021-01-19 12:59:17,666 - Shopclues -INFO - Entered username
+2021-01-19 12:59:17,783 - Shopclues -INFO - Entered password
+2021-01-19 12:59:18,875 - Shopclues -INFO - Clicked Login
+2021-01-19 12:59:19,636 - Shopclues -INFO - Login successful
+2021-01-19 12:59:21,806 - Shopclues -INFO - Logout successful
+2021-01-19 12:59:23,889 - Shopclues -INFO - Entered username
+2021-01-19 12:59:24,034 - Shopclues -INFO - Entered password
+2021-01-19 12:59:25,101 - Shopclues -INFO - Clicked Login
+2021-01-19 12:59:25,164 - Shopclues -INFO - 
+2021-01-19 12:59:25,191 - Shopclues -INFO - 
+2021-01-19 12:59:25,211 - Shopclues -INFO - 
+2021-01-19 12:59:25,211 - Shopclues -INFO - login test failed
+2021-01-19 12:59:25,785 - Shopclues -INFO - Entered username
+2021-01-19 12:59:25,926 - Shopclues -INFO - Entered password
+2021-01-19 12:59:26,992 - Shopclues -INFO - Clicked Login
+2021-01-19 12:59:27,036 - Shopclues -INFO - 
+2021-01-19 12:59:27,050 - Shopclues -INFO - 
+2021-01-19 12:59:27,067 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 12:59:27,067 - Shopclues -INFO - login test failed
+2021-01-19 12:59:27,660 - Shopclues -INFO - Entered username
+2021-01-19 12:59:27,795 - Shopclues -INFO - Entered password
+2021-01-19 12:59:28,861 - Shopclues -INFO - Clicked Login
+2021-01-19 12:59:28,904 - Shopclues -INFO - 
+2021-01-19 12:59:28,918 - Shopclues -INFO - 
+2021-01-19 12:59:28,934 - Shopclues -INFO - 
+2021-01-19 12:59:28,934 - Shopclues -INFO - login test failed
+2021-01-19 13:00:59,217 - Shopclues -INFO - Entered username
+2021-01-19 13:00:59,369 - Shopclues -INFO - Entered password
+2021-01-19 13:01:00,459 - Shopclues -INFO - Clicked Login
+2021-01-19 13:01:00,522 - Shopclues -INFO - 
+2021-01-19 13:01:00,549 - Shopclues -INFO - 
+2021-01-19 13:01:00,569 - Shopclues -INFO - 
+2021-01-19 13:01:00,569 - Shopclues -INFO - login test failed
+2021-01-19 13:01:01,240 - Shopclues -INFO - Entered username
+2021-01-19 13:01:01,383 - Shopclues -INFO - Entered password
+2021-01-19 13:01:02,452 - Shopclues -INFO - Clicked Login
+2021-01-19 13:01:02,498 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:01:02,511 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:01:02,526 - Shopclues -INFO - 
+2021-01-19 13:01:02,526 - Shopclues -INFO - login test failed
+2021-01-19 13:01:03,091 - Shopclues -INFO - Entered username
+2021-01-19 13:01:03,217 - Shopclues -INFO - Entered password
+2021-01-19 13:01:04,297 - Shopclues -INFO - Clicked Login
+2021-01-19 13:01:04,339 - Shopclues -INFO - 
+2021-01-19 13:01:04,356 - Shopclues -INFO - 
+2021-01-19 13:01:04,371 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:01:04,371 - Shopclues -INFO - login test failed
+2021-01-19 13:01:04,946 - Shopclues -INFO - Entered username
+2021-01-19 13:01:05,078 - Shopclues -INFO - Entered password
+2021-01-19 13:01:06,164 - Shopclues -INFO - Clicked Login
+2021-01-19 13:01:06,222 - Shopclues -INFO - 
+2021-01-19 13:01:06,236 - Shopclues -INFO - 
+2021-01-19 13:01:06,252 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:01:06,252 - Shopclues -INFO - login test failed
+2021-01-19 13:01:06,861 - Shopclues -INFO - Entered username
+2021-01-19 13:01:06,995 - Shopclues -INFO - Entered password
+2021-01-19 13:01:08,066 - Shopclues -INFO - Clicked Login
+2021-01-19 13:01:08,110 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:01:08,126 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:01:08,142 - Shopclues -INFO - 
+2021-01-19 13:01:08,142 - Shopclues -INFO - login test failed
+2021-01-19 13:07:49,745 - Shopclues -INFO - Entered username
+2021-01-19 13:07:49,905 - Shopclues -INFO - Entered password
+2021-01-19 13:07:50,985 - Shopclues -INFO - Clicked Login
+2021-01-19 13:07:51,048 - Shopclues -INFO - Error message:
+2021-01-19 13:07:51,073 - Shopclues -INFO - Error message:
+2021-01-19 13:07:51,093 - Shopclues -INFO - Error message:
+2021-01-19 13:07:51,093 - Shopclues -INFO - login test failed
+2021-01-19 13:07:51,750 - Shopclues -INFO - Entered username
+2021-01-19 13:07:51,870 - Shopclues -INFO - Entered password
+2021-01-19 13:07:52,957 - Shopclues -INFO - Clicked Login
+2021-01-19 13:07:52,999 - Shopclues -INFO - Error message:Password must be 6 characters or more.
+2021-01-19 13:07:53,015 - Shopclues -INFO - Error message:Password must be 6 characters or more.
+2021-01-19 13:07:53,029 - Shopclues -INFO - Error message:
+2021-01-19 13:07:53,029 - Shopclues -INFO - login test failed
+2021-01-19 13:07:53,564 - Shopclues -INFO - Entered username
+2021-01-19 13:07:53,708 - Shopclues -INFO - Entered password
+2021-01-19 13:07:54,782 - Shopclues -INFO - Clicked Login
+2021-01-19 13:07:54,826 - Shopclues -INFO - Error message:
+2021-01-19 13:07:54,840 - Shopclues -INFO - Error message:
+2021-01-19 13:07:54,855 - Shopclues -INFO - Error message:Please enter valid email id or mobile number.
+2021-01-19 13:07:54,856 - Shopclues -INFO - login test failed
+2021-01-19 13:07:55,418 - Shopclues -INFO - Entered username
+2021-01-19 13:07:55,551 - Shopclues -INFO - Entered password
+2021-01-19 13:07:56,625 - Shopclues -INFO - Clicked Login
+2021-01-19 13:07:56,669 - Shopclues -INFO - Error message:
+2021-01-19 13:07:56,685 - Shopclues -INFO - Error message:
+2021-01-19 13:07:56,700 - Shopclues -INFO - Error message:Please enter valid email id or mobile number.
+2021-01-19 13:07:56,700 - Shopclues -INFO - login test failed
+2021-01-19 13:07:57,257 - Shopclues -INFO - Entered username
+2021-01-19 13:07:57,409 - Shopclues -INFO - Entered password
+2021-01-19 13:07:58,491 - Shopclues -INFO - Clicked Login
+2021-01-19 13:07:58,531 - Shopclues -INFO - Error message:
+2021-01-19 13:07:58,548 - Shopclues -INFO - Error message:
+2021-01-19 13:07:58,563 - Shopclues -INFO - Error message:
+2021-01-19 13:07:58,564 - Shopclues -INFO - login test failed
+2021-01-19 13:12:39,689 - Shopclues -INFO - Entered username
+2021-01-19 13:12:39,839 - Shopclues -INFO - Entered password
+2021-01-19 13:12:41,943 - Shopclues -INFO - Clicked Login
+2021-01-19 13:12:42,743 - Shopclues -INFO - Login successful
+2021-01-19 13:12:45,199 - Shopclues -INFO - Logout successful
+2021-01-19 13:12:47,808 - Shopclues -INFO - Entered username
+2021-01-19 13:12:47,925 - Shopclues -INFO - Entered password
+2021-01-19 13:12:50,021 - Shopclues -INFO - Clicked Login
+2021-01-19 13:12:50,085 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:12:50,111 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:12:50,129 - Shopclues -INFO - 
+2021-01-19 13:12:50,130 - Shopclues -INFO - login test failed
+2021-01-19 13:12:50,721 - Shopclues -INFO - Entered username
+2021-01-19 13:12:50,883 - Shopclues -INFO - Entered password
+2021-01-19 13:12:52,967 - Shopclues -INFO - Clicked Login
+2021-01-19 13:12:53,029 - Shopclues -INFO - 
+2021-01-19 13:12:53,060 - Shopclues -INFO - 
+2021-01-19 13:12:53,089 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:12:53,089 - Shopclues -INFO - login test failed
+2021-01-19 13:12:53,646 - Shopclues -INFO - Entered username
+2021-01-19 13:12:53,781 - Shopclues -INFO - Entered password
+2021-01-19 13:12:55,868 - Shopclues -INFO - Clicked Login
+2021-01-19 13:12:55,911 - Shopclues -INFO - 
+2021-01-19 13:12:55,927 - Shopclues -INFO - 
+2021-01-19 13:12:55,942 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:12:55,943 - Shopclues -INFO - login test failed
+2021-01-19 13:12:56,550 - Shopclues -INFO - Entered username
+2021-01-19 13:12:56,692 - Shopclues -INFO - Entered password
+2021-01-19 13:12:58,768 - Shopclues -INFO - Clicked Login
+2021-01-19 13:12:58,827 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:12:58,841 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:12:58,858 - Shopclues -INFO - 
+2021-01-19 13:12:58,858 - Shopclues -INFO - login test failed
+2021-01-19 13:14:10,378 - Shopclues -INFO - Entered username
+2021-01-19 13:14:10,560 - Shopclues -INFO - Entered password
+2021-01-19 13:14:12,644 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:12,754 - Shopclues -INFO - login test failed
+2021-01-19 13:14:13,538 - Shopclues -INFO - Entered username
+2021-01-19 13:14:41,832 - Shopclues -INFO - Entered username
+2021-01-19 13:14:42,066 - Shopclues -INFO - Entered password
+2021-01-19 13:14:44,214 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:44,320 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:14:44,320 - Shopclues -INFO - login test failed
+2021-01-19 13:14:44,925 - Shopclues -INFO - Entered username
+2021-01-19 13:14:45,039 - Shopclues -INFO - Entered password
+2021-01-19 13:14:47,115 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:47,189 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:14:47,189 - Shopclues -INFO - login test failed
+2021-01-19 13:14:47,770 - Shopclues -INFO - Entered username
+2021-01-19 13:14:47,917 - Shopclues -INFO - Entered password
+2021-01-19 13:14:50,003 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:50,114 - Shopclues -INFO - login test failed
+2021-01-19 13:14:50,682 - Shopclues -INFO - Entered username
+2021-01-19 13:14:50,818 - Shopclues -INFO - Entered password
+2021-01-19 13:14:52,916 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:52,990 - Shopclues -INFO - login test failed
+2021-01-19 13:14:53,601 - Shopclues -INFO - Entered username
+2021-01-19 13:14:53,766 - Shopclues -INFO - Entered password
+2021-01-19 13:14:55,869 - Shopclues -INFO - Clicked Login
+2021-01-19 13:14:55,958 - Shopclues -INFO - login test failed
+2021-01-19 13:17:34,238 - Shopclues -INFO - Entered username
+2021-01-19 13:17:34,398 - Shopclues -INFO - Entered password
+2021-01-19 13:17:36,518 - Shopclues -INFO - Clicked Login
+2021-01-19 13:17:37,174 - Shopclues -INFO - Login successful
+2021-01-19 13:17:39,426 - Shopclues -INFO - Logout successful
+2021-01-19 13:17:40,755 - Shopclues -INFO - Entered username
+2021-01-19 13:17:40,921 - Shopclues -INFO - Entered password
+2021-01-19 13:17:43,016 - Shopclues -INFO - Clicked Login
+2021-01-19 13:17:43,119 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:17:43,119 - Shopclues -INFO - login test failed
+2021-01-19 13:17:43,698 - Shopclues -INFO - Entered username
+2021-01-19 13:17:43,853 - Shopclues -INFO - Entered password
+2021-01-19 13:17:45,940 - Shopclues -INFO - Clicked Login
+2021-01-19 13:17:46,044 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:17:46,045 - Shopclues -INFO - login test failed
+2021-01-19 13:17:46,638 - Shopclues -INFO - Entered username
+2021-01-19 13:17:46,806 - Shopclues -INFO - Entered password
+2021-01-19 13:17:48,887 - Shopclues -INFO - Clicked Login
+2021-01-19 13:17:49,007 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:17:49,007 - Shopclues -INFO - login test failed
+2021-01-19 13:17:49,570 - Shopclues -INFO - Entered username
+2021-01-19 13:17:49,736 - Shopclues -INFO - Entered password
+2021-01-19 13:17:51,822 - Shopclues -INFO - Clicked Login
+2021-01-19 13:17:51,880 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:17:51,880 - Shopclues -INFO - login test failed
+2021-01-19 13:19:32,279 - Shopclues -INFO - Entered username
+2021-01-19 13:19:32,441 - Shopclues -INFO - Entered password
+2021-01-19 13:19:34,535 - Shopclues -INFO - Clicked Login
+2021-01-19 13:19:38,203 - Shopclues -INFO - login test failed
+2021-01-19 13:20:03,447 - Shopclues -INFO - Entered username
+2021-01-19 13:20:03,585 - Shopclues -INFO - Entered password
+2021-01-19 13:20:05,666 - Shopclues -INFO - Clicked Login
+2021-01-19 13:20:08,606 - Shopclues -INFO - Login successful
+2021-01-19 13:20:10,797 - Shopclues -INFO - Logout successful
+2021-01-19 13:20:12,918 - Shopclues -INFO - Entered username
+2021-01-19 13:20:13,046 - Shopclues -INFO - Entered password
+2021-01-19 13:20:15,121 - Shopclues -INFO - Clicked Login
+2021-01-19 13:20:15,223 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:20:15,223 - Shopclues -INFO - login test failed
+2021-01-19 13:20:15,808 - Shopclues -INFO - Entered username
+2021-01-19 13:20:15,954 - Shopclues -INFO - Entered password
+2021-01-19 13:20:18,032 - Shopclues -INFO - Clicked Login
+2021-01-19 13:20:18,176 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:20:18,176 - Shopclues -INFO - login test failed
+2021-01-19 13:20:18,860 - Shopclues -INFO - Entered username
+2021-01-19 13:20:19,036 - Shopclues -INFO - Entered password
+2021-01-19 13:20:21,121 - Shopclues -INFO - Clicked Login
+2021-01-19 13:20:21,210 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:20:21,212 - Shopclues -INFO - login test failed
+2021-01-19 13:20:21,787 - Shopclues -INFO - Entered username
+2021-01-19 13:20:21,922 - Shopclues -INFO - Entered password
+2021-01-19 13:20:24,007 - Shopclues -INFO - Clicked Login
+2021-01-19 13:20:24,081 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:20:24,081 - Shopclues -INFO - login test failed
+2021-01-19 13:28:12,359 - Shopclues -INFO - Entered username
+2021-01-19 13:28:12,584 - Shopclues -INFO - Entered password
+2021-01-19 13:28:14,673 - Shopclues -INFO - Clicked Login
+2021-01-19 13:28:15,098 - Shopclues -INFO - Login successful
+2021-01-19 13:28:17,344 - Shopclues -INFO - Logout successful
+2021-01-19 13:28:18,768 - Shopclues -INFO - Entered username
+2021-01-19 13:28:18,887 - Shopclues -INFO - Entered password
+2021-01-19 13:28:20,983 - Shopclues -INFO - Clicked Login
+2021-01-19 13:28:21,089 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-19 13:28:21,089 - Shopclues -INFO - login test failed
+2021-01-19 13:28:21,719 - Shopclues -INFO - Entered username
+2021-01-19 13:28:21,873 - Shopclues -INFO - Entered password
+2021-01-19 13:28:23,978 - Shopclues -INFO - Clicked Login
+2021-01-19 13:28:24,145 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:28:24,145 - Shopclues -INFO - login test failed
+2021-01-19 13:28:24,763 - Shopclues -INFO - Entered username
+2021-01-19 13:28:24,953 - Shopclues -INFO - Entered password
+2021-01-19 13:28:27,059 - Shopclues -INFO - Clicked Login
+2021-01-19 13:28:27,229 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-19 13:28:27,229 - Shopclues -INFO - login test failed
+2021-01-19 13:28:27,822 - Shopclues -INFO - Entered username
+2021-01-19 13:28:27,970 - Shopclues -INFO - Entered password
+2021-01-19 13:28:30,056 - Shopclues -INFO - Clicked Login
+2021-01-19 13:28:30,144 - Shopclues -INFO - Incorrect login details.
+2021-01-19 13:28:30,144 - Shopclues -INFO - login test failed

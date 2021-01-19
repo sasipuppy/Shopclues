@@ -1,5 +1,6 @@
 package com.shopclues.page;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -50,10 +51,13 @@ WebDriver ldriver;
 	WebElement btnLogOut;
 	
 	@FindBy(xpath="//*[@id=\"login\"]/form/fieldset/div[2]/div[1]/span")
+	WebElement userIdError;
+	
+	@FindBy(xpath="//*[@id=\"login\"]/form/fieldset/div[3]/div[1]/span")
 	WebElement loginError;
 	
 	@FindBy(xpath="//*[@id=\"login\"]/form/fieldset/div[3]/div[1]/span")
-	WebElement msgError;
+	WebElement passwordError;
 	
 	@FindBy(id="a_close_id")
 	WebElement btnLoginClose;
@@ -91,6 +95,18 @@ WebDriver ldriver;
 	   txtUserId.sendKeys(uname);
 	}
 	
+	public void clearUserId()
+	{
+	   txtUserId.sendKeys(Keys.CONTROL + "a");
+	   txtUserId.sendKeys(Keys.DELETE);
+	}
+	
+	public void clearPassword()
+	{
+		txtPassword.sendKeys(Keys.CONTROL + "a");
+		txtPassword.sendKeys(Keys.DELETE);
+	}
+	
 	public void enterPassword(String pwd)
 	{
 	   txtPassword.sendKeys(pwd);
@@ -101,14 +117,43 @@ WebDriver ldriver;
 	   btnLogin.click();
 	}
 	
-	public String getError() {
+	public String getLoginError() {
 		return loginError.getText();
 	}
 	
-	public String msgError() {
-		return msgError.getText();
+	public boolean isDisplayedLoginError(){
+				
+		if(loginError.getText().contains("Incorrect login details"))
+			return true;
+		else
+			return false;
 	}
 	
+	
+	public String getPasswordError() {
+		return passwordError.getText();
+	}
+	
+	public boolean isDisplayedPasswordError(){
+		
+		if(passwordError.getText().contains("Password must be 6 characters or more"))
+			return true;
+		else
+			return false;
+	}
+	
+	public String getUserIdError() {
+		return userIdError.getText();
+	}
+	
+    public boolean isDisplayedUserIdError(){
+		
+		if(userIdError.getText().contains("Please enter valid email id or mobile number"))
+			return true;
+		else
+			return false;
+	}
+			
 	public String isLoggedIn() {
 		String name=loginText.getText();
 		return name;
@@ -121,7 +166,7 @@ WebDriver ldriver;
 	
 	public void clickLoginOtp()
 	{
-		btnLogin.click();
+	     btnLogin.click();
 	}
 	
 	public void clickCloseButton()
