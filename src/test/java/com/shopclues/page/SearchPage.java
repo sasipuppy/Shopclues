@@ -1,10 +1,14 @@
 package com.shopclues.page;
 
+import java.util.Set;
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
 
 public class SearchPage {
 	
@@ -22,12 +26,16 @@ WebDriver ldriver;
 	@FindBy(linkText="Search")
 	WebElement btnSearch;
 	
-	@FindBy(xpath="//*[@id=\"product_list\"]/div[3]/div[1]/a/h2")
+	@FindBy(xpath="//*[@id=\"product_list\"]/div[3]/div[1]/a")
+	WebElement firstProduct;
+	
+	@FindBy(css=".prd_mid_info > h1:nth-child(2)")
 	WebElement productName;
 	
-	@FindBy(xpath="//*[@id=\"product_list\"]/div[3]/div[1]/a/div[2]/div[1]/span[1]")
+			
+	@FindBy(xpath="//*[@id=\"main_data\"]/div[2]/div[2]/div[2]/span[1]")
 	WebElement productPrice;
-	
+			
 	public void enterSearchItem(String product){
 		txtSearch.sendKeys(product);
 	}
@@ -41,9 +49,43 @@ WebDriver ldriver;
 	public void clickSearch(){
 		btnSearch.click();
     }
+	
+	public void clickFirstProduct(){
+		firstProduct.click();
+    }
+	
+	public void switchToNewWindow(){
+		String parent_handle= this.ldriver.getWindowHandle();
+		   Set<String> handles = this.ldriver.getWindowHandles();
+		   for(String handle1:handles)
+		       if(!parent_handle.equals(handle1))
+		       {
+		    	   this.ldriver.switchTo().window(handle1);
+		       }
+		}
+	
+	public void closeTab() {
+		String originalHandle = this.ldriver.getWindowHandle();
+
+	    
+
+	    for(String handle : this.ldriver.getWindowHandles()) {
+	        if (!handle.equals(originalHandle)) {
+	        	this.ldriver.switchTo().window(handle);
+	        	this.ldriver.close();
+	        }
+	    }
+
+	    this.ldriver.switchTo().window(originalHandle);
+	}
     
     public String getProductName() {
+    	this.ldriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     	return productName.getText();
+    }
+    
+    public String getPrice() {
+    	return productPrice.getText();
     }
     
     public String getProductPrice() {

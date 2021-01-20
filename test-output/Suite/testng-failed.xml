@@ -17,7 +17,7 @@
     </classes>
   </test> <!-- ChromeTest(failed) -->
   <test thread-count="5" name="FirefoxTest(failed)">
-    <parameter name="node" value="external"/>
+    <parameter name="node" value="local1"/>
     <classes>
       <class name="com.shopclues.test.LoginDataDrivenTest">
         <methods>

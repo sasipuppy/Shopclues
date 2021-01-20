@@ -21,8 +21,16 @@ public class SearchTest extends BaseClass{
 		sp.clickSearch();
 		logger.info("Clicked search button.");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		sp.clickFirstProduct();
+		logger.info("Clicked the first product.");
+		sp.switchToNewWindow();
+		logger.info("Switching to a new window");
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Thread.sleep(3000);
 		logger.info("Product name: "+ sp.getProductName());
-		logger.info("Product price in rupees : "+ sp.getProductPrice());
+		Thread.sleep(2000);
+		logger.info("Product price in rupees : "+ sp.getPrice());
+		sp.closeTab();
 		
 	}
 	 

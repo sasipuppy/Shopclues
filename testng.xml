@@ -5,21 +5,21 @@
     <listeners>
 		<listener class-name="com.shopclues.utilities.Reporting" />
 	</listeners>
-	
+
   <test name="ChromeTest">
   <parameter name="node" value="local"> </parameter>
     <classes>
-      <class name="com.shopclues.test.LoginDataDrivenTest"/>
-      <class name="com.shopclues.test.SearchTest"/>
+    	 <class name="com.shopclues.test.LoginDataDrivenTest"/>	
+         <class name="com.shopclues.test.SearchTest"/>
     </classes>
   </test> <!-- Test -->
-
+  
   <test name="FirefoxTest">
-  <parameter name="node" value="external"> </parameter>
+  <parameter name="node" value="local1"> </parameter>
     <classes>
-      <class name="com.shopclues.test.LoginDataDrivenTest"/>
-      <class name="com.shopclues.test.SearchTest"/>
+          <class name="com.shopclues.test.LoginDataDrivenTest"/>	
+          <class name="com.shopclues.test.SearchTest"/>
      </classes>
   </test> <!-- Test -->
-      
+       
 </suite> <!-- Suite -->
