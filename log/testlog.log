@@ -22,3 +22,147 @@
 2021-01-20 15:11:35,284 - Shopclues -INFO - Clicked search button.
 2021-01-20 15:11:35,410 - Shopclues -INFO - Product name: Apple iPhone SE (Black, 64 GB)
 2021-01-20 15:11:35,434 - Shopclues -INFO - Product price in rupees : 31899
+2021-01-20 15:23:25,458 - Shopclues -INFO - Entered Product as Nike shoes in the search field.
+2021-01-20 15:23:27,031 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:23:27,075 - Shopclues -INFO - Product name: Nike Unisex Joyride White Running Shoes
+2021-01-20 15:23:27,107 - Shopclues -INFO - Product price in rupees : 1887
+2021-01-20 15:23:27,263 - Shopclues -INFO - Entered Product as himalaya baby products in the search field.
+2021-01-20 15:23:28,430 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:23:28,463 - Shopclues -INFO - Product name: Himalaya Baby Lotion 400 ml
+2021-01-20 15:23:28,486 - Shopclues -INFO - Product price in rupees : 207
+2021-01-20 15:23:28,622 - Shopclues -INFO - Entered Product as Apple iphone in the search field.
+2021-01-20 15:23:29,709 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:23:29,759 - Shopclues -INFO - Product name: Apple iPhone SE (Black, 64 GB)
+2021-01-20 15:23:29,787 - Shopclues -INFO - Product price in rupees : 31899
+2021-01-20 15:23:40,545 - Shopclues -INFO - Entered username
+2021-01-20 15:23:40,677 - Shopclues -INFO - Entered password
+2021-01-20 15:23:42,737 - Shopclues -INFO - Clicked Login
+2021-01-20 15:23:42,829 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-20 15:23:42,829 - Shopclues -INFO - login test failed
+2021-01-20 15:23:43,765 - Shopclues -INFO - Entered username
+2021-01-20 15:23:43,876 - Shopclues -INFO - Entered password
+2021-01-20 15:23:45,942 - Shopclues -INFO - Clicked Login
+2021-01-20 15:23:46,038 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:23:46,038 - Shopclues -INFO - login test failed
+2021-01-20 15:23:46,862 - Shopclues -INFO - Entered username
+2021-01-20 15:23:46,987 - Shopclues -INFO - Entered password
+2021-01-20 15:23:49,049 - Shopclues -INFO - Clicked Login
+2021-01-20 15:23:49,166 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:23:49,166 - Shopclues -INFO - login test failed
+2021-01-20 15:23:49,995 - Shopclues -INFO - Entered username
+2021-01-20 15:23:50,128 - Shopclues -INFO - Entered password
+2021-01-20 15:23:52,187 - Shopclues -INFO - Clicked Login
+2021-01-20 15:23:52,255 - Shopclues -INFO - Incorrect login details.
+2021-01-20 15:23:52,255 - Shopclues -INFO - login test failed
+2021-01-20 15:23:53,076 - Shopclues -INFO - Entered username
+2021-01-20 15:23:53,183 - Shopclues -INFO - Entered password
+2021-01-20 15:23:55,247 - Shopclues -INFO - Clicked Login
+2021-01-20 15:23:56,447 - Shopclues -INFO - Login successful
+2021-01-20 15:23:58,736 - Shopclues -INFO - Logout successful
+2021-01-20 15:24:05,815 - Shopclues -INFO - Entered Product as Nike shoes in the search field.
+2021-01-20 15:24:08,242 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:24:08,316 - Shopclues -INFO - Product name: Nike Unisex Joyride White Running Shoes
+2021-01-20 15:24:08,356 - Shopclues -INFO - Product price in rupees : 1887
+2021-01-20 15:24:08,465 - Shopclues -INFO - Entered Product as himalaya baby products in the search field.
+2021-01-20 15:24:10,969 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:24:11,018 - Shopclues -INFO - Product name: Himalaya Baby Lotion 400 ml
+2021-01-20 15:24:11,071 - Shopclues -INFO - Product price in rupees : 207
+2021-01-20 15:24:11,169 - Shopclues -INFO - Entered Product as Apple iphone in the search field.
+2021-01-20 15:24:13,552 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:24:13,656 - Shopclues -INFO - Product name: Apple iPhone SE (Black, 64 GB)
+2021-01-20 15:24:13,676 - Shopclues -INFO - Product price in rupees : 31899
+2021-01-20 15:24:22,131 - Shopclues -INFO - Entered username
+2021-01-20 15:24:22,259 - Shopclues -INFO - Entered password
+2021-01-20 15:24:25,508 - Shopclues -INFO - Clicked Login
+2021-01-20 15:24:25,602 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-20 15:24:25,602 - Shopclues -INFO - login test failed
+2021-01-20 15:24:26,197 - Shopclues -INFO - Entered username
+2021-01-20 15:24:26,304 - Shopclues -INFO - Entered password
+2021-01-20 15:24:28,573 - Shopclues -INFO - Clicked Login
+2021-01-20 15:24:28,650 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:24:28,651 - Shopclues -INFO - login test failed
+2021-01-20 15:24:29,274 - Shopclues -INFO - Entered username
+2021-01-20 15:24:29,427 - Shopclues -INFO - Entered password
+2021-01-20 15:24:31,698 - Shopclues -INFO - Clicked Login
+2021-01-20 15:24:31,791 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:24:31,791 - Shopclues -INFO - login test failed
+2021-01-20 15:24:32,409 - Shopclues -INFO - Entered username
+2021-01-20 15:24:32,555 - Shopclues -INFO - Entered password
+2021-01-20 15:24:34,850 - Shopclues -INFO - Clicked Login
+2021-01-20 15:24:34,913 - Shopclues -INFO - Incorrect login details.
+2021-01-20 15:24:34,914 - Shopclues -INFO - login test failed
+2021-01-20 15:24:35,495 - Shopclues -INFO - Entered username
+2021-01-20 15:24:35,610 - Shopclues -INFO - Entered password
+2021-01-20 15:24:37,890 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:41,459 - Shopclues -INFO - Entered username
+2021-01-20 15:26:41,578 - Shopclues -INFO - Entered password
+2021-01-20 15:26:43,638 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:43,736 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-20 15:26:43,736 - Shopclues -INFO - login test failed
+2021-01-20 15:26:44,618 - Shopclues -INFO - Entered username
+2021-01-20 15:26:44,736 - Shopclues -INFO - Entered password
+2021-01-20 15:26:46,790 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:46,933 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:26:46,933 - Shopclues -INFO - login test failed
+2021-01-20 15:26:47,752 - Shopclues -INFO - Entered username
+2021-01-20 15:26:47,870 - Shopclues -INFO - Entered password
+2021-01-20 15:26:49,935 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:50,023 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:26:50,023 - Shopclues -INFO - login test failed
+2021-01-20 15:26:50,831 - Shopclues -INFO - Entered username
+2021-01-20 15:26:50,977 - Shopclues -INFO - Entered password
+2021-01-20 15:26:53,038 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:53,101 - Shopclues -INFO - Incorrect login details.
+2021-01-20 15:26:53,101 - Shopclues -INFO - login test failed
+2021-01-20 15:26:53,986 - Shopclues -INFO - Entered username
+2021-01-20 15:26:54,098 - Shopclues -INFO - Entered password
+2021-01-20 15:26:56,159 - Shopclues -INFO - Clicked Login
+2021-01-20 15:26:57,385 - Shopclues -INFO - Login successful
+2021-01-20 15:26:59,731 - Shopclues -INFO - Logout successful
+2021-01-20 15:27:09,073 - Shopclues -INFO - Entered Product as Nike shoes in the search field.
+2021-01-20 15:27:10,794 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:27:10,829 - Shopclues -INFO - Product name: Nike Unisex Joyride White Running Shoes
+2021-01-20 15:27:10,853 - Shopclues -INFO - Product price in rupees : 1887
+2021-01-20 15:27:10,996 - Shopclues -INFO - Entered Product as himalaya baby products in the search field.
+2021-01-20 15:27:12,039 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:27:12,074 - Shopclues -INFO - Product name: Himalaya Baby Lotion 400 ml
+2021-01-20 15:27:12,097 - Shopclues -INFO - Product price in rupees : 207
+2021-01-20 15:27:12,241 - Shopclues -INFO - Entered Product as Apple iphone in the search field.
+2021-01-20 15:27:13,516 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:27:13,549 - Shopclues -INFO - Product name: Apple iPhone SE (Black, 64 GB)
+2021-01-20 15:27:13,572 - Shopclues -INFO - Product price in rupees : 31899
+2021-01-20 15:27:24,164 - Shopclues -INFO - Entered username
+2021-01-20 15:27:24,343 - Shopclues -INFO - Entered password
+2021-01-20 15:27:26,657 - Shopclues -INFO - Clicked Login
+2021-01-20 15:27:26,825 - Shopclues -INFO - Password must be 6 characters or more.
+2021-01-20 15:27:26,825 - Shopclues -INFO - login test failed
+2021-01-20 15:27:27,538 - Shopclues -INFO - Entered username
+2021-01-20 15:27:27,735 - Shopclues -INFO - Entered password
+2021-01-20 15:27:29,994 - Shopclues -INFO - Clicked Login
+2021-01-20 15:27:30,074 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:27:30,074 - Shopclues -INFO - login test failed
+2021-01-20 15:27:30,674 - Shopclues -INFO - Entered username
+2021-01-20 15:27:30,771 - Shopclues -INFO - Entered password
+2021-01-20 15:27:33,028 - Shopclues -INFO - Clicked Login
+2021-01-20 15:27:33,137 - Shopclues -INFO - Please enter valid email id or mobile number.
+2021-01-20 15:27:33,138 - Shopclues -INFO - login test failed
+2021-01-20 15:27:33,782 - Shopclues -INFO - Entered username
+2021-01-20 15:27:33,920 - Shopclues -INFO - Entered password
+2021-01-20 15:27:36,213 - Shopclues -INFO - Clicked Login
+2021-01-20 15:27:36,273 - Shopclues -INFO - Incorrect login details.
+2021-01-20 15:27:36,273 - Shopclues -INFO - login test failed
+2021-01-20 15:27:36,907 - Shopclues -INFO - Entered username
+2021-01-20 15:27:37,020 - Shopclues -INFO - Entered password
+2021-01-20 15:27:39,326 - Shopclues -INFO - Clicked Login
+2021-01-20 15:28:07,212 - Shopclues -INFO - Entered Product as Nike shoes in the search field.
+2021-01-20 15:28:10,236 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:28:10,275 - Shopclues -INFO - Product name: Nike Unisex Joyride White Running Shoes
+2021-01-20 15:28:10,294 - Shopclues -INFO - Product price in rupees : 1887
+2021-01-20 15:28:10,398 - Shopclues -INFO - Entered Product as himalaya baby products in the search field.
+2021-01-20 15:28:12,705 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:28:12,738 - Shopclues -INFO - Product name: Himalaya Baby Lotion 400 ml
+2021-01-20 15:28:12,758 - Shopclues -INFO - Product price in rupees : 207
+2021-01-20 15:28:12,913 - Shopclues -INFO - Entered Product as Apple iphone in the search field.
+2021-01-20 15:28:16,146 - Shopclues -INFO - Clicked search button.
+2021-01-20 15:28:16,263 - Shopclues -INFO - Product name: Apple iPhone SE (Black, 64 GB)
+2021-01-20 15:28:16,289 - Shopclues -INFO - Product price in rupees : 31899
