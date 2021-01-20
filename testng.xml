@@ -10,7 +10,7 @@
   <parameter name="node" value="local"> </parameter>
     <classes>
       <class name="com.shopclues.test.BaseClass"/>
-      <class name="com.shopclues.test.LoginDataDrivenTest"/>
+      <class name="com.shopclues.test.SearchTest"/>
     </classes>
   </test> <!-- Test -->
 
@@ -18,7 +18,7 @@
   <parameter name="node" value="external"> </parameter>
     <classes>
       <class name="com.shopclues.test.BaseClass"/>
-      <class name="com.shopclues.test.LoginDataDrivenTest"/>
+      <class name="com.shopclues.test.SearchTest"/>
     </classes>
   </test> <!-- Test -->
       

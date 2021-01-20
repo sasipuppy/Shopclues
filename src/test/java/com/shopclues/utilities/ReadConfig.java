@@ -38,6 +38,12 @@ Properties pro;
 	return password;
 	}
 	
+	public String getProduct()
+	{
+	String username=pro.getProperty("product");
+	return username;
+	}
+	
 	public String getChromePath()
 	{
 	String chromepath=pro.getProperty("chromepath");
