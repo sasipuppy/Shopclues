@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="44084" started-at="2021-01-20T11:17:47Z" finished-at="2021-01-20T11:18:31Z">
+  <suite name="Suite" duration-ms="49602" started-at="2021-01-20T14:10:46Z" finished-at="2021-01-20T14:11:36Z">
     <groups>
     </groups>
-    <test name="ChromeTest" duration-ms="24077" started-at="2021-01-20T11:17:47Z" finished-at="2021-01-20T11:18:11Z">
+    <test name="ChromeTest" duration-ms="16419" started-at="2021-01-20T14:10:46Z" finished-at="2021-01-20T14:11:02Z">
       <class name="com.shopclues.test.SearchTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@25d250c6]" name="setup" is-config="true" duration-ms="22046" started-at="2021-01-20T11:17:47Z" finished-at="2021-01-20T11:18:09Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@6b26e945]" name="setup" is-config="true" duration-ms="9259" started-at="2021-01-20T14:10:46Z" finished-at="2021-01-20T14:10:55Z">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,48 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="searchProductTest()[pri:0, instance:com.shopclues.test.SearchTest@25d250c6]" name="searchProductTest" duration-ms="1894" started-at="2021-01-20T11:18:09Z" finished-at="2021-01-20T11:18:11Z">
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@6b26e945]" name="searchProductTest" duration-ms="1935" started-at="2021-01-20T14:10:56Z" data-provider="ProductData" finished-at="2021-01-20T14:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nike shoes]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProductTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopclues.test.SearchTest@25d250c6]" name="tearDown" is-config="true" duration-ms="34" started-at="2021-01-20T11:18:11Z" finished-at="2021-01-20T11:18:11Z">
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@6b26e945]" name="searchProductTest" duration-ms="3139" started-at="2021-01-20T14:10:58Z" data-provider="ProductData" finished-at="2021-01-20T14:11:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[himalaya baby products]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@6b26e945]" name="searchProductTest" duration-ms="1497" started-at="2021-01-20T14:11:01Z" data-provider="ProductData" finished-at="2021-01-20T14:11:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopclues.test.SearchTest@6b26e945]" name="tearDown" is-config="true" duration-ms="43" started-at="2021-01-20T14:11:02Z" finished-at="2021-01-20T14:11:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.shopclues.test.SearchTest -->
     </test> <!-- ChromeTest -->
-    <test name="FirefoxTest" duration-ms="19804" started-at="2021-01-20T11:18:11Z" finished-at="2021-01-20T11:18:31Z">
+    <test name="FirefoxTest" duration-ms="32964" started-at="2021-01-20T14:11:03Z" finished-at="2021-01-20T14:11:36Z">
       <class name="com.shopclues.test.SearchTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@670002]" name="setup" is-config="true" duration-ms="12329" started-at="2021-01-20T11:18:11Z" finished-at="2021-01-20T11:18:23Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@49c386c8]" name="setup" is-config="true" duration-ms="20938" started-at="2021-01-20T14:11:03Z" finished-at="2021-01-20T14:11:24Z">
           <params>
             <param index="0">
               <value>
@@ -41,11 +70,40 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="searchProductTest()[pri:0, instance:com.shopclues.test.SearchTest@670002]" name="searchProductTest" duration-ms="6819" started-at="2021-01-20T11:18:23Z" finished-at="2021-01-20T11:18:30Z">
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@49c386c8]" name="searchProductTest" duration-ms="3343" started-at="2021-01-20T14:11:24Z" data-provider="ProductData" finished-at="2021-01-20T14:11:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nike shoes]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProductTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopclues.test.SearchTest@670002]" name="tearDown" is-config="true" duration-ms="652" started-at="2021-01-20T11:18:30Z" finished-at="2021-01-20T11:18:31Z">
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@49c386c8]" name="searchProductTest" duration-ms="4876" started-at="2021-01-20T14:11:27Z" data-provider="ProductData" finished-at="2021-01-20T14:11:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[himalaya baby products]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method status="PASS" signature="searchProductTest(java.lang.String)[pri:0, instance:com.shopclues.test.SearchTest@49c386c8]" name="searchProductTest" duration-ms="3081" started-at="2021-01-20T14:11:32Z" data-provider="ProductData" finished-at="2021-01-20T14:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopclues.test.SearchTest@49c386c8]" name="tearDown" is-config="true" duration-ms="678" started-at="2021-01-20T14:11:35Z" finished-at="2021-01-20T14:11:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
