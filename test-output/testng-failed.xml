@@ -7,25 +7,13 @@
   <test thread-count="5" name="ChromeTest(failed)">
     <parameter name="node" value="local"/>
     <classes>
-      <class name="com.shopclues.test.LoginDataDrivenTest">
+      <class name="com.shopclues.test.RobotClassTest">
         <methods>
           <include name="tearDown"/>
-          <include name="loginTest" invocation-numbers="0 1 2 3"/>
           <include name="setup"/>
+          <include name="RobotSearchTest"/>
         </methods>
-      </class> <!-- com.shopclues.test.LoginDataDrivenTest -->
+      </class> <!-- com.shopclues.test.RobotClassTest -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
-  <test thread-count="5" name="FirefoxTest(failed)">
-    <parameter name="node" value="local1"/>
-    <classes>
-      <class name="com.shopclues.test.LoginDataDrivenTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="loginTest" invocation-numbers="0 1 2 3 4"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.shopclues.test.LoginDataDrivenTest -->
-    </classes>
-  </test> <!-- FirefoxTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

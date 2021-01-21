@@ -1,14 +1,15 @@
 package com.shopclues.page;
 
+
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
-
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Reporter;
+
 
 public class SearchPage {
 	
@@ -31,11 +32,13 @@ WebDriver ldriver;
 	
 	@FindBy(css=".prd_mid_info > h1:nth-child(2)")
 	WebElement productName;
-	
-			
+				
 	@FindBy(xpath="//*[@id=\"main_data\"]/div[2]/div[2]/div[2]/span[1]")
 	WebElement productPrice;
-			
+	
+	@FindBy(xpath="//*[@id=\"instdcnt\"]")
+	WebElement txtCount;
+	
 	public void enterSearchItem(String product){
 		txtSearch.sendKeys(product);
 	}
@@ -49,6 +52,11 @@ WebDriver ldriver;
 	public void clickSearch(){
 		btnSearch.click();
     }
+	
+	public Point getSearchCoordinates() {
+		Point coordinates =btnSearch.getLocation();
+		return coordinates;
+	}
 	
 	public void clickFirstProduct(){
 		firstProduct.click();
@@ -66,9 +74,7 @@ WebDriver ldriver;
 	
 	public void closeTab() {
 		String originalHandle = this.ldriver.getWindowHandle();
-
-	    
-
+   
 	    for(String handle : this.ldriver.getWindowHandles()) {
 	        if (!handle.equals(originalHandle)) {
 	        	this.ldriver.switchTo().window(handle);
@@ -88,10 +94,8 @@ WebDriver ldriver;
     	return productPrice.getText();
     }
     
-    public String getProductPrice() {
-    	String priceText=productPrice.getText();
-    	String[] priceArray= priceText.split("\u20B9");
-    	String price=priceArray[1];
-    	return price;
+    public String getCount(){
+    	return txtCount.getText();
     }
+   
 }
